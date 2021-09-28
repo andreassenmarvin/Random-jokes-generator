@@ -1,5 +1,5 @@
 # RANDOM JOKES GENERATOR
-Generates random jokes 
+A web app for generating random jokes using api.
 ## Setup/Installation Requirements
 * Fork/Clone the repository
 ```
