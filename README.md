@@ -19,5 +19,5 @@ No known bugs
 Incase of any contributions,query or issues,you can reach me through the email below:
 machariamarvin625@gmail.com
 ### License
-This project is licensed under the [MIT LICENSE](https://github.com/andreassenmarvin/
-Random-jokes-generator/blob/master/LICENSE) 
+This project is licensed under the [MIT LICENSE](https://github.com/andreassenmarvin/Random-jokes-generator/blob/master/LICENSE) 
+
